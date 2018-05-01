@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-portal-pojo" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-portal-pojo" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-portal-dao" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-portal-dao" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-portal-serviceInterface" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-portal-serviceInterface" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-portal-service-impl" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-portal-service-impl" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-portal-web" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-portal-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-manager-pojo" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-manager-pojo" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-manager-interface" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-manager-interface" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-commons" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-commons" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-manager-dao" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-manager-dao" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-manager-service" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-manager-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for pcshop-manager-web" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="pcshop-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pcshop-commons" target="1.8" />
+      <module name="pcshop-manager" target="1.8" />
+      <module name="pcshop-manager-dao" target="1.8" />
+      <module name="pcshop-manager-pojo" target="1.8" />
+      <module name="pcshop-manager-web" target="1.8" />
+      <module name="pcshop-parent" target="1.8" />
+      <module name="pcshop-portal" target="1.8" />
+      <module name="pcshop-portal-dao" target="1.8" />
+      <module name="pcshop-portal-pojo" target="1.8" />
+      <module name="pcshop-portal-service-impl" target="1.8" />
+      <module name="pcshop-portal-serviceInterface" target="1.8" />
+      <module name="pcshop-portal-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

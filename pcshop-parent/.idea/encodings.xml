@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../pcshop-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao/src/main/java/com/eb/pcshop/manager/dao/AdminManMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao/src/main/java/com/eb/pcshop/manager/dao/AdminManMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao/src/main/java/com/eb/pcshop/manager/dao/UserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao/src/main/java/com/eb/pcshop/manager/dao/UserMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/dto/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/dto/UserResult.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/po/AdminMan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/po/AdminManExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/po/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/po/UserExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/src/main/java/com/eb/pcshop/manager/pojo/vo/UserQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-service-impl/src/main/java/com/eb/pcshop/manager/service/impl/AdminServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-serviceInterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-serviceInterface/src/main/java/com/eb/pcshop/manager/serviceInterface/AdminService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-web/src/main/webapp/WEB-INF/jsp/indexmain.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-web/src/main/webapp/WEB-INF/jsp/pages" charset="GBK" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-serviceInterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

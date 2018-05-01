@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-commons/pcshop-commons.iml" filepath="$PROJECT_DIR$/../pcshop-commons/pcshop-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager.iml" filepath="$PROJECT_DIR$/../pcshop-manager/pcshop-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao/pcshop-manager-dao.iml" filepath="$PROJECT_DIR$/../pcshop-manager/pcshop-manager-dao/pcshop-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/pcshop-manager-pojo.iml" filepath="$PROJECT_DIR$/../pcshop-manager/pcshop-manager-pojo/pcshop-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-service-impl/pcshop-manager-service-impl.iml" filepath="$PROJECT_DIR$/../pcshop-manager/pcshop-manager-service-impl/pcshop-manager-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-serviceInterface/pcshop-manager-serviceInterface.iml" filepath="$PROJECT_DIR$/../pcshop-manager/pcshop-manager-serviceInterface/pcshop-manager-serviceInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-manager/pcshop-manager-web/pcshop-manager-web.iml" filepath="$PROJECT_DIR$/../pcshop-manager/pcshop-manager-web/pcshop-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcshop-parent.iml" filepath="$PROJECT_DIR$/pcshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal.iml" filepath="$PROJECT_DIR$/../pcshop-portal/pcshop-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-dao/pcshop-portal-dao.iml" filepath="$PROJECT_DIR$/../pcshop-portal/pcshop-portal-dao/pcshop-portal-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-pojo/pcshop-portal-pojo.iml" filepath="$PROJECT_DIR$/../pcshop-portal/pcshop-portal-pojo/pcshop-portal-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-service-impl/pcshop-portal-service-impl.iml" filepath="$PROJECT_DIR$/../pcshop-portal/pcshop-portal-service-impl/pcshop-portal-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-serviceInterface/pcshop-portal-serviceInterface.iml" filepath="$PROJECT_DIR$/../pcshop-portal/pcshop-portal-serviceInterface/pcshop-portal-serviceInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcshop-portal/pcshop-portal-web/pcshop-portal-web.iml" filepath="$PROJECT_DIR$/../pcshop-portal/pcshop-portal-web/pcshop-portal-web.iml" />
+    </modules>
+  </component>
+</project>
