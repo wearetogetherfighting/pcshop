@@ -136,7 +136,6 @@ public class ManagerController {
     @RequestMapping("/editProduct")
     public int editProduct(Product product) {
         int i=0;
-        System.out.println("进入到editProduct方法");
         i = serviceInterface.editProduct(product);
         System.out.println(product.getPname());
         return i;
