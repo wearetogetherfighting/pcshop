@@ -59,9 +59,9 @@
         <span class="we-red">*</span>上架状态
       </label>
       <div class="layui-input-inline">
-        上架:<input type="radio"  readonly="true" name="pflag"   autocomplete="off"
+        上架:<input type="radio"  disabled name="pflag"   autocomplete="off"
                class="layui-input" value="1">
-        下架:<input type="radio"  readonly="true" name="pflag"   autocomplete="off"
+        下架:<input type="radio"  disabled name="pflag"   autocomplete="off"
                class="layui-input" value="2">
       </div>
      </div><div class="layui-form-item">
