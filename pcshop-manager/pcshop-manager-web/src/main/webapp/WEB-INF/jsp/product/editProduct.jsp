@@ -117,8 +117,9 @@
               for(var i=0;i<data.length;i++){
                 if(data[i].cid==cid){
                   str+="<option selected='selected' value='"+data[i].cid+"'>"+data[i].cname+"</option>"
+                }else{
+                  str+="<option value='"+data[i].cid+"'>"+data[i].cname+"</option>"
                 }
-                str+="<option value='"+data[i].cid+"'>"+data[i].cname+"</option>"
               }
               $("#select").html(str);
             },

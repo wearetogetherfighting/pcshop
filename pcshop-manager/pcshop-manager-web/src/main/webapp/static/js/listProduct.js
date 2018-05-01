@@ -232,6 +232,9 @@ layui.use(['table', 'form', 'jquery', 'layer'], function () {
 
             },
             error: function(layero, index) {
+            },
+            end:function(){             //当弹出层页面关闭后自动刷新当前页面
+                layui.table.reload('test-table-operate')
             }
         });
     }
